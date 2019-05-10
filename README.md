@@ -1,6 +1,6 @@
 A small project which showcases some techniques available in React and Redux. During this project I have taken advantage of;
 
-React:
+React:<br/>
   • One way data flow<br/>
   • JSX<br/>
   • State and Props<br/>
@@ -9,7 +9,7 @@ React:
   • Lifecycle hooks<br/>
   • Error bounderies<br/>
   • Components and Containers<br/>
-Redux:
+Redux:<br/>
   • Redux Store and Provider<br/>
   • Actions and Reducers<br/>
   • Connect<br/>
