@@ -15,4 +15,4 @@ Redux
   • Connect
   • Async Actions
   
-  To use this website you can clone the repo and use npm start to view.
+  To use this website you can clone the repo and use npm start to view. 
