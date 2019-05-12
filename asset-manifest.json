@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/React-ReduxPractice/static/css/main.d7e4834e.chunk.css",
-    "main.js": "/React-ReduxPractice/static/js/main.c651482b.chunk.js",
-    "main.js.map": "/React-ReduxPractice/static/js/main.c651482b.chunk.js.map",
+    "main.css": "/React-ReduxPractice/static/css/main.866511e3.chunk.css",
+    "main.js": "/React-ReduxPractice/static/js/main.e3acfe78.chunk.js",
+    "main.js.map": "/React-ReduxPractice/static/js/main.e3acfe78.chunk.js.map",
     "runtime~main.js": "/React-ReduxPractice/static/js/runtime~main.19b8770c.js",
     "runtime~main.js.map": "/React-ReduxPractice/static/js/runtime~main.19b8770c.js.map",
     "static/css/2.31dafeb2.chunk.css": "/React-ReduxPractice/static/css/2.31dafeb2.chunk.css",
     "static/js/2.fc4335f4.chunk.js": "/React-ReduxPractice/static/js/2.fc4335f4.chunk.js",
     "static/js/2.fc4335f4.chunk.js.map": "/React-ReduxPractice/static/js/2.fc4335f4.chunk.js.map",
     "index.html": "/React-ReduxPractice/index.html",
-    "precache-manifest.60d4fd5d17e85a0c869ba919f7c6b532.js": "/React-ReduxPractice/precache-manifest.60d4fd5d17e85a0c869ba919f7c6b532.js",
+    "precache-manifest.ed59abb056231a98010b0f104c6aacf1.js": "/React-ReduxPractice/precache-manifest.ed59abb056231a98010b0f104c6aacf1.js",
     "service-worker.js": "/React-ReduxPractice/service-worker.js",
     "static/css/2.31dafeb2.chunk.css.map": "/React-ReduxPractice/static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.d7e4834e.chunk.css.map": "/React-ReduxPractice/static/css/main.d7e4834e.chunk.css.map",
+    "static/css/main.866511e3.chunk.css.map": "/React-ReduxPractice/static/css/main.866511e3.chunk.css.map",
     "static/media/App.css": "/React-ReduxPractice/static/media/SEGA.12a3db8b.woff"
   }
 }
