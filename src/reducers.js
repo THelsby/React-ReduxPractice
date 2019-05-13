@@ -4,7 +4,6 @@ import {
   REQUEST_ROBOTS_SUCCESS,
   REQUEST_ROBOTS_FAILED
 } from "./constants";
-import { isPending } from "q";
 
 const intitialStateSearch = {
   searchField: ""
@@ -20,9 +19,8 @@ export const searchRobots = (state = intitialStateSearch, action = {}) => {
 };
 
 const intitialStateRobots = {
-  isPending: false,
-  robots: [],
-  error: ""
+  isPending: true,
+  robots: []
 };
 
 export const requestRobots = (state = intitialStateRobots, action = {}) => {
